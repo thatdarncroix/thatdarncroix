@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Website Development and Java
+- 🌱 I’m currently learning Website Development and Minecraft Java Plugin Creation
 - 💬 Ask me about ...
 - 📫 How to reach me: thatdarncroix@gmail.com
 - ⚡ Fun fact: ...
--->
