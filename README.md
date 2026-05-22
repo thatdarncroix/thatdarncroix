@@ -7,7 +7,7 @@ Languages I know: C, C++, C#, Java, Python, HTML
 How to reach me: thatdarncroix@gmail.com
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/thatdarncroix/thatdarncroix/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=thatdarncroix&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -17,6 +17,7 @@ How to reach me: thatdarncroix@gmail.com
 </div>
 
 ###
+
 
 
 Résumé/CV by request.
