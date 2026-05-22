@@ -7,7 +7,7 @@ Languages I know: C, C++, C#, Java, Python, HTML
 How to reach me: thatdarncroix@gmail.com
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thatdarncroix/thatdarncroix/languages-output/languages.svg" height="150" alt="languages graph"  />
+ <img src="https://raw.githubusercontent.com/thatdarncroix/thatdarncroix/stats-output/stats.svg" height="150" alt="stats graph"  />
 </div>
 
 ###
