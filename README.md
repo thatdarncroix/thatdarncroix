@@ -8,7 +8,7 @@ Hello! I'm Croix. I'm a 2nd-year undergraduate Software Engineering student with
 
 I’m currently learning Web Development and Minecraft Java Plugin Creation
 
-Languages I know: C, C++, C#, Java, Python, HTML
+Languages I know: C, C++, C#, Java, Python, HTML, CSS
 
 How to reach me: thatdarncroix@gmail.com
 
